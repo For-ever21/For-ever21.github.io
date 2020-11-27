@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.840e47b0f97036d2f81419fa651b6e66.js"
+  "/aiwen/login/precache-manifest.3c86f56f7998e466694e7b58e85cfc22.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "vue3-ts-h5-template"});
