@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7ca7152f460e9b48f5d6b9d508f3dc0c",
+    "revision": "2c87777f5c01ca043d20354db0669810",
     "url": "/aiwen/index.html"
   },
   {
@@ -12,12 +12,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/aiwen/robots.txt"
   },
   {
-    "revision": "1b081797c052df650c81",
+    "revision": "64ee8a58c8eb1be8ef16",
     "url": "/aiwen/static/css/app.c4985424.css"
   },
   {
-    "revision": "fa9cb99a678c936aba2f",
-    "url": "/aiwen/static/css/chunk-3a94ddc7.7bee78ea.css"
+    "revision": "ac2772b3bb8154b5151f",
+    "url": "/aiwen/static/css/chunk-39147602.7bee78ea.css"
   },
   {
     "revision": "0a75d1c9d8f46b0e5c1dfd2e262f91f3",
@@ -28,16 +28,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/aiwen/static/img/logo_s.4a8031cd.png"
   },
   {
-    "revision": "1b081797c052df650c81",
-    "url": "/aiwen/static/js/app.74dde0a5.js"
+    "revision": "64ee8a58c8eb1be8ef16",
+    "url": "/aiwen/static/js/app.896e745b.js"
   },
   {
-    "revision": "fa9cb99a678c936aba2f",
-    "url": "/aiwen/static/js/chunk-3a94ddc7.f3c2c1ff.js"
+    "revision": "ac2772b3bb8154b5151f",
+    "url": "/aiwen/static/js/chunk-39147602.c25cbce4.js"
   },
   {
-    "revision": "84bec130763efa8fb0b8",
-    "url": "/aiwen/static/js/chunk-vendors.14eb03d8.js"
+    "revision": "10a2b6b4a12c3f1e3558",
+    "url": "/aiwen/static/js/chunk-vendors.d3d77983.js"
   },
   {
     "revision": "0bfde19cef9d10aaeaae85856c3a6ba5",
